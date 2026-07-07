@@ -156,7 +156,9 @@ Columns:
 ---
 
 ## 👨‍💻 Author
+
 Vishal Kumar
+
 Aspiring Data Analyst
 
 ---
