@@ -155,14 +155,16 @@ Columns:
 
 ---
 
+## 👨‍💻 Author
+Vishal Kumar
+Aspiring Data Analyst
+
+---
+
 ## 📸 Dashboard Preview
 
-> Add screenshots of your dashboard here to showcase:
->
-> - Dashboard Overview
-> - Payment Method Analysis
-> - Member Type Analysis
-> - Restaurant Type Analysis
+<img src = "https://github.com/vishal843325/superstore-sales-dashboard-excel/blob/9c0dfc4c5eaca055f336562e21560118caa260ee/Superstore_Dashboard.png" alt="Image Description" width="600">
+
 
 ---
 
