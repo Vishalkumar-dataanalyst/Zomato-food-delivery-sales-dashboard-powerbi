@@ -163,7 +163,7 @@ Aspiring Data Analyst
 
 ## 📸 Dashboard Preview
 
-<img src = "https://github.com/vishal843325/superstore-sales-dashboard-excel/blob/9c0dfc4c5eaca055f336562e21560118caa260ee/Superstore_Dashboard.png" alt="Image Description" width="600">
+<img src = "https://github.com/Vishalkumar-dataanalyst/Zomato-food-delivery-sales-dashboard-powerbi/blob/9d5f56d5ce0de2c68c95415745a5822a1f409884/Dashboard%20Image.png" alt="Image Description" width="600">
 
 
 ---
